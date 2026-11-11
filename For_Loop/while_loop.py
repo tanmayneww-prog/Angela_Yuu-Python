@@ -9,4 +9,5 @@ x = 10
 while x < 20:
     print("GOOD MORNING")    
     x += 2
-    
+
+#A while loop repeats its indented code as long as its condition is true.    
